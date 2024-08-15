@@ -1,16 +1,19 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**Andy-Leal-Dev/Andy-Leal-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="450" src="https://i.ibb.co/Btnb188/Proflie-banner.png"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Sobre mi</h2>
+
+###
+
+<p align="left">Hola👋 Soy Andrierber Leal... Soy Programador Venezolano enfocado en el desarollo movil utilizando Flutter, y la creacion de backend usando Nodejs y Spring Boot. <br><br>📚 Actualmente estudiante 5to Semestre de Ingenieria en Informatica en la Universida Nacional Experimental Romulo Gallegos...<br><br>🎶 Toco guitarra <br><br>🛠Herramientas Y Frameworks<br><br>💾 Bases de datos<br><br>💻 Lenguejes<br><br>🖥DevOps</p>
+
+###
+
+<p align="left"></p>
+
+###
