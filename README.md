@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.ibb.co/Btnb188/Proflie-banner.png"  />
+  <img height="250" src="https://i.ibb.co/Btnb188/Proflie-banner.png"  />
 </div>
 
 ###
